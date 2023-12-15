@@ -48,3 +48,7 @@ $ password: 456123
 
 $ npm install
 $ npm run dev
+
+## 🚀 Deploy
+
+https://desafio-final-front-end.vercel.app
