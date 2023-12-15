@@ -1,8 +1,4 @@
 <p align="center">
-  <img width="800" src="./src/assets/banner.png">
-</p>
-
-<p align="center">
   <h1 align="center">Food Explorer - Rocketseat Explorer - Desafio Final</h1>
 </p>
 
